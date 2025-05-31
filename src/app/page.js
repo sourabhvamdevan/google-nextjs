@@ -21,7 +21,7 @@ function page() {
           priority
           style={{width:"auto"}}
         />
-        <HomeSearch/>
+        <HomeSearch />
       </div>
     </div>
   )
